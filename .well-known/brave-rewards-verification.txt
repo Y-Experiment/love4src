@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: love4src.com
+Token: f41530f2c20ae6afd230c8d49cb172c4e7d924d229042ec8d99506b2a8d28f97
