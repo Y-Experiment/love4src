@@ -1,10 +1,7 @@
 ---
-layout: default
+layout: love4src
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
-
-[Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
 
@@ -18,19 +15,20 @@ We want to be an open place for discussions about software, and how better to or
 
 # Episodes
 
+0.  [Intro](./episodes/intro.html).
+1.  Ep.1
+
 ## Content
 
 ## Discussion
 
-# Website
+* * *
 
-# Disclaimers
+# Disclaimer
 
-## Code of conduct
+We aim to provide a forum for open discussion, where radical viewpoints are welcome and a high degree of skepticism is expected. However, insulting or harassing is unacceptable. We aim for a wide exploration of topics at hand, but we want to do it in a safe and a productive manner. 
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+Instead of praising / provoking / confronting anyone or any particular technology we aim for a constructive and fun discussion.
 
 ## Terms
 
@@ -38,75 +36,12 @@ We want to be an open place for discussions about software, and how better to or
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-###### Header 6
+# Website
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+This website is available for you to interact with. There are 
 
-### There's a horizontal rule below this.
+## Suggestions
 
-* * *
+## Donations
 
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+https://brave.com/lov974
