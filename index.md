@@ -1,11 +1,6 @@
 ---
-layout: love4src
+layout: default
 ---
-
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # You can make a diff
 
@@ -16,7 +11,7 @@ We want to be an open place for discussions about software, and how better to or
 # Episodes
 
 0.  [Intro](./episodes/intro.html).
-1.  Ep.1
+1.  [Ep.1 - ]
 
 ## Content
 
