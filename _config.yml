@@ -10,7 +10,7 @@ title:            love4src
 tagline:          'Software is eating the world'
 description:      'Opinionated discussions of people making software.'
 url:              https://www.love4src.com
-baseurl:          /
+baseurl:          https://www.love4src.com/
 
 author:
   name:           'Y Experiment'
