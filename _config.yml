@@ -1,3 +1,26 @@
-title: love4src
-description: Rants about software eating the world
-theme: jekyll-theme-hacker
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            love4src
+tagline:          'Software is eating the world'
+description:      'Opinionated discussion of people making software on how software is eating the world.'
+url:              https://www.love4src.com
+baseurl:          /
+
+author:
+  name:           'Y Experiment'
+  url:            https://www.yexperiment.com
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/yexperiment/love4src
