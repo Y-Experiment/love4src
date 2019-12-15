@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            love4src
 tagline:          'Software is eating the world'
-description:      'Opinionated discussion of people making software on how software is eating the world.'
+description:      'Opinionated discussions of people making software.'
 url:              https://www.love4src.com
 baseurl:          /
 
