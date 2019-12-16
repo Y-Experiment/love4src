@@ -15,11 +15,11 @@ p.lead {
   color: rgba(255,255,255, 0.6);
 }
 .sidebar a {
-  color: #fffaff; 
+  color: #fffdf7; 
 }
 body.theme-l4s {
-  color: #000b0e;
-  background-color: #fffaff;
+  color: #003459;
+  background-color: #fffdf7;
 }
 @media (max-width: 48em) {
   .hide-mobile {
