@@ -27,11 +27,10 @@
       {% endfor %}
 
       <a class="sidebar-nav-item" href="https://soundcloud.com/love4src">Soundcloud</a>
-      <hr/>
+      <hr class="hide-mobile" />
       <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub</a>
-      <span class="sidebar-nav-item small">v{{ site.version }}</span>
     </nav>
 
-    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+    <p class="hide-mobile">&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
   </div>
 </div>
