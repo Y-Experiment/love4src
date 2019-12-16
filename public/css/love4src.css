@@ -17,12 +17,15 @@ p.lead {
 .sidebar a {
   color: #fffaff; 
 }
-body .theme-l4s {
+body.theme-l4s {
   color: #000b0e;
   background-color: #fffaff;
 }
 @media (max-width: 48em) {
-.hide-mobile {
-  display: none;
-}
+  .hide-mobile {
+    display: none;
+  }
+  .sidebar-nav .sidebar-nav-item {
+    display: inline-block;    
+  }
 }
