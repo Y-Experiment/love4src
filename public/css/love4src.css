@@ -5,7 +5,7 @@ p.lead {
   font-size: 0.7rem; 
 }
 .theme-l4s .sidebar {
-  background-color: #003459;
+  background-color: #00171f;
 }
 .theme-l4s .content a,
 .theme-l4s .related-posts li a:hover {
@@ -26,6 +26,7 @@ body.theme-l4s {
     display: none;
   }
   .sidebar-nav .sidebar-nav-item {
-    display: inline-block;    
+    display: inline-block;   
+    margin: 0 0.5em; 
   }
 }
