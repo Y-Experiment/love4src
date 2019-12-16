@@ -5,9 +5,19 @@ p.lead {
   font-size: 0.7rem; 
 }
 .theme-l4s .sidebar {
-  background-color: #0d3b66;
+  background-color: #003459;
 }
 .theme-l4s .content a,
 .theme-l4s .related-posts li a:hover {
-  color: #0d3b66;
+  color: #003459;
+}
+.sidebar {
+  color: rgba(255,255,255, 0.6);
+}
+.sidebar a {
+  color: #fffaff; 
+}
+body .theme-l4s {
+  color: #00171f;
+  background-color: #fffaff;
 }
