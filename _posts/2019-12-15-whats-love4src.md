@@ -11,6 +11,6 @@ Love4src aims to enhance such discussions with modern publishing technologies al
 
 Instead of evangelizing software tech, let's talk about the challenges and controversies related to building software: systems, businesses, teams, culture, evolution, intelligence... Let's talk about software eating the world.
 
-My personal motivation is to have a place where I can talk to people about software and share those conversations with you - so that perhaps you'll join in and add your input.
+For the curious minds, my personal motivation is to have a place where I can talk to people about software and share those conversations with you, so that perhaps you'll join in and add your input.
 
 Learn more by [visiting the project on GitHub](https://github.com/Y-Experiment/love4src).
