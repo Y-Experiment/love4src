@@ -12,11 +12,11 @@ p.lead {
   color: rgba(255,255,255, 0.6);
 }
 .sidebar a {
-  color: #fffdf7; 
+  color: #fbfef9; 
 }
 body.theme-l4s {
   color: #00171f;
-  background-color: #fbfffe;
+  background-color: #fbfef9;
 }
 @media (max-width: 48em) {
   .hide-mobile {
@@ -27,7 +27,7 @@ body.theme-l4s {
     margin: 0 0.5em; 
   }
 }
-a.bg-link {
+.sidebar a.bg-link {
   color: inherit;
 }
 .sidebar hr {
