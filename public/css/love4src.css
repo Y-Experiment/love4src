@@ -18,8 +18,8 @@ p.lead {
   color: #fffdf7; 
 }
 body.theme-l4s {
-  color: #003459;
-  background-color: #fffdf7;
+  color: #00171f;
+  background-color: #fbfffe;
 }
 @media (max-width: 48em) {
   .hide-mobile {
