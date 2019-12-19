@@ -9,7 +9,7 @@ I'm sure every software maker has experienced the frustration of dealing with my
 
 Love4src aims to enhance such discussions with modern publishing technologies allowing them to be heard, reflected upon, and commented the-hell-out-of.
 
-Instead of evangelizing software tech, let's talk about the challenges and controversies related to building software: systems, businesses, teams, culture, evolution, intelligence... Let's talk about software eating the world.
+Instead of evangelizing software tech, brands or people, let's talk about the controversies and challenges related to building software: systems, businesses, teams, culture, evolution, intelligence... Let's talk about software eating the world.
 
 For the curious minds, my personal motivation is to have a place where I can talk to people about software and share those conversations with you, so that perhaps you'll join in and add your input.
 
