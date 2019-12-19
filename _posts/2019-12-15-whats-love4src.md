@@ -1,9 +1,9 @@
 ---
 layout: post
-title: What's love4src?
+title: What is love4src?
 ---
 
-Software has entered the mainstream at the turn of the centuries and by now, pretty much everyone has an opinion on it. 
+Software has entered the mainstream at the turn of the centuries. By now, pretty much everyone has an opinion about it. 
 
 I'm sure every software maker has experienced the frustration of dealing with myths surrounding our domain. We've all had countless discussions, trying to bridge the gaps in understanding of: how software works, what is it good for, how to build it, why it is important, and why we will use more of it every day. 
 
