@@ -11,4 +11,5 @@ Topics:
 * love4src background
 * technology trends for the curious
 
-Want to see something else added here? [Use the open repository to submit content to the show](https://github.com/Y-Experiment/love4src).
+Want to see something else added here?<br/>
+[Use the open repository to submit content to the show](https://github.com/Y-Experiment/love4src).
